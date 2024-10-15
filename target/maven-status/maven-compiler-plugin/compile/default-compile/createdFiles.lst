@@ -1,0 +1,5 @@
+br/edu/fatec/sjc/StackFullException.class
+br/edu/fatec/sjc/CustomStack.class
+br/edu/fatec/sjc/CalculableStrategy.class
+br/edu/fatec/sjc/StackEmptyException.class
+br/edu/fatec/sjc/NumberAscOrder.class
